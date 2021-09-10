@@ -13,7 +13,7 @@
 		  "-g",
 		  "${workspaceFolder}/*.cpp",
 		  "-o",
-		  "output/${fileBasenameNoExtension}"
+		  "output/AlgorithmWithCPP"
 		],
 		"options": {
 		  "cwd": "${workspaceFolder}"
