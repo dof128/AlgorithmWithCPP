@@ -1,2 +1,8 @@
+.vs/*
+**/Debug/*
+**.vcxproj
+**.filters
+**.user
+
 output
 output/*
